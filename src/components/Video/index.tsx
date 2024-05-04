@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "node_modules/next/image";
-import { useState } from "node_modules/react";
+import { useState } from "react";
 import SectionTitle from "../Common/SectionTitle";
 
 import ModalVideo from "node_modules/react-modal-video";
