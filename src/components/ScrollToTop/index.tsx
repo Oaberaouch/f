@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState } from "node_modules/react";
 
 export default function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false);

@@ -1,5 +1,5 @@
 import { Brand } from "@/types/brand";
-import Image from "next/image";
+import Image from "node_modules/next/image";
 import brandsData from "./brandsData";
 
 const Brands = () => {

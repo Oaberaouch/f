@@ -1,7 +1,7 @@
 import Breadcrumb from "@/components/Common/Breadcrumb";
 import Contact from "@/components/Contact";
 
-import { Metadata } from "next";
+import { Metadata } from "node_modules/next";
 
 export const metadata: Metadata = {
   title: "Contact Page | Free Next.js Template for Startup and SaaS",

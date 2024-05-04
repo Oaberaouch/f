@@ -1,6 +1,6 @@
 "use client";
 
-import { useTheme } from "next-themes";
+import { useTheme } from "node_modules/next-themes";
 
 const NewsLatterBox = () => {
   const { theme } = useTheme();

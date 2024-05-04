@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from "node_modules/next/image";
 import SectionTitle from "../Common/SectionTitle";
 
 const checkIcon = (

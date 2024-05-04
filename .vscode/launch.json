@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "name": "http:///root/.npm/_logs/2024-05-04T13_19_40_607Z-debug-0.log",
+            "request": "launch",
+            "url": "http:///root/.npm/_logs/2024-05-04T13_19_40_607Z-debug-0.log"
+        }
+    ]
+}

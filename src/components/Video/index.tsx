@@ -1,10 +1,10 @@
 "use client";
 
-import Image from "next/image";
-import { useState } from "react";
+import Image from "node_modules/next/image";
+import { useState } from "node_modules/react";
 import SectionTitle from "../Common/SectionTitle";
 
-import ModalVideo from "react-modal-video";
+import ModalVideo from "node_modules/react-modal-video";
 
 const Video = () => {
   const [isOpen, setOpen] = useState(false);

@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useState } from "node_modules/react";
 import SectionTitle from "../Common/SectionTitle";
 import OfferList from "./OfferList";
 import PricingBox from "./PricingBox";

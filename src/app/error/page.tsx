@@ -1,6 +1,6 @@
-import Link from "next/link";
+import Link from "node_modules/next/link";
 
-import { Metadata } from "next";
+import { Metadata } from "node_modules/next";
 
 export const metadata: Metadata = {
   title: "Error Page | Free Next.js Template for Startup and SaaS",
